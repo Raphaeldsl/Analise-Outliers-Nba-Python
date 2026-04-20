@@ -43,8 +43,8 @@ Conclui-se que o método IQR é eficaz na detecção de outliers e essencial par
 ## ▶️ Como executar
 1. Baixe o arquivo `.ipynb`
 2. Baixe o arquivo da bases de dados do Kaggle `.csv`
-3. Abra no Google Colab ou Jupyter Notebook
-4. Execute todas as células
+3. Abra no Google Colab ou Jupyter Notebook.
+4. Execute todas as células.
 
 ## 👨‍💻 Autor
 Raphael Lima
